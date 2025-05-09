@@ -4,21 +4,23 @@
 **Tanggal**: 2024-05-09
 
 ## Deskripsi
-Aplikasi **Time Travel Code Adventure** adalah sebuah aplikasi edukasi yang dirancang untuk membantu anak-anak belajar coding dengan cara yang menyenangkan dan imajinatif. Aplikasi ini memungkinkan anak-anak untuk belajar pemrograman dasar melalui tantangan dan proyek kreatif yang disesuaikan dengan berbagai era dalam sejarah, dari zaman prasejarah hingga masa depan.
+Aplikasi **Time Travel Code Adventure** adalah sebuah aplikasi edukasi yang dirancang untuk membantu anak-anak belajar coding dengan cara yang menyenangkan dan imajinatif. Aplikasi ini memungkinkan anak-anak untuk belajar pemrograman dasar melalui tantangan dan proyek kreatif yang disesuaikan dengan berbagai era dalam sejarah, dimulai dari zaman prasejarah (Prehistoric) hingga masa depan (Future).
 
 Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**, yang memberikan feedback konstruktif untuk membantu anak-anak memahami dan memperbaiki solusi mereka.
+
+**Catatan**: Game ini menggunakan bahasa Inggris untuk tantangan dan instruksi.
 
 ## Cara Penggunaan
 
 1. **Instalasi**
-   - Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) dan [npm](https://www.npmjs.com/) di komputer Anda.
-   - Clone repositori ini ke komputer Anda:
+   - Pastikan [Node.js](https://nodejs.org/) dan [npm](https://www.npmjs.com/) sudah terinstal di komputer.
+   - Clone repositori ini ke komputer:
      ```bash
-     git clone https://github.com/[username]/[repo-name].git
+     git clone https://github.com/irfanstrw/timetraveladventure.git
      ```
    - Masuk ke folder proyek:
      ```bash
-     cd [repo-name]
+     cd timetraveladventure
      ```
    - Install dependensi yang dibutuhkan:
      ```bash
@@ -34,11 +36,12 @@ Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**
 
 3. **Akses Aplikasi**
    - Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000` untuk memulai aplikasi.
+   - Pengguna (anak-anak) akan memulai dengan memilih tantangan dari era **Prasejarah (Prehistoric)**, dan berlanjut ke tantangan dari era-era lainnya hingga **Masa Depan (Future)**. Tantangan disusun secara berurutan dari yang paling awal hingga yang paling modern.
 
 ## Fitur
 
 - **Belajar Pemrograman Dasar**: Anak-anak dapat belajar dasar-dasar pemrograman melalui tantangan yang menarik.
-- **Tantangan Berdasarkan Era**: Terdapat berbagai tantangan yang berhubungan dengan berbagai era, seperti prasejarah, abad pertengahan, modern, dan masa depan.
+- **Tantangan Berdasarkan Era**: Terdapat berbagai tantangan yang berhubungan dengan berbagai era, dimulai dari prasejarah, abad pertengahan, modern, hingga masa depan.
 - **Umpan Balik dari AI Qwen**: Setiap solusi yang diberikan oleh anak-anak akan dinilai dan diberi umpan balik langsung oleh AI Qwen untuk membantu mereka memperbaiki dan memahami konsep pemrograman.
 - **Antarmuka Ramah Anak**: Desain aplikasi yang sederhana dan menyenangkan, membuatnya mudah digunakan oleh anak-anak.
 - **Meningkatkan Imajinasi dan Kreativitas**: Selain belajar coding, anak-anak dapat mengembangkan imajinasi dan kreativitas mereka dalam menyelesaikan berbagai tantangan.
@@ -53,20 +56,9 @@ Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**
 
 ## Informasi Kontak
 
-- **Pengembang**: [Nama Pengembang]  
-- **Email**: [email@domain.com]  
-- **GitHub**: [https://github.com/username](https://github.com/username)
-
-## Kontribusi
-
-Kontribusi sangat diterima. Jika ingin berkontribusi pada proyek ini, ikuti langkah-langkah berikut:
-
-1. Fork repositori ini.
-2. Buat cabang baru (`git checkout -b fitur-baru`).
-3. Lakukan perubahan yang diinginkan.
-4. Commit perubahan (`git commit -am 'Menambah fitur baru'`).
-5. Push cabang ke repositori fork (`git push origin fitur-baru`).
-6. Buat pull request untuk review.
+- **Pengembang**: [Irfan Satrio]  
+- **Email**: [irfansatrio479@gmail.com]  
+- **GitHub**: [https://github.com/irfanstrw](https://github.com/irfanstrw)
 
 ## Lisensi
 
@@ -75,4 +67,3 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE.md](LICEN
 ## Catatan
 
 Aplikasi ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan dan mendidik bagi anak-anak. Kami terus mengembangkan dan memperbarui aplikasi ini agar lebih bermanfaat dan menyenangkan dalam proses pembelajaran coding.
-
