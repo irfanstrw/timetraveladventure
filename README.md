@@ -6,7 +6,7 @@
 ## Deskripsi
 Aplikasi **Time Travel Code Adventure** adalah sebuah aplikasi edukasi yang dirancang untuk membantu anak-anak belajar coding dengan cara yang menyenangkan dan imajinatif. Aplikasi ini memungkinkan anak-anak untuk belajar pemrograman dasar melalui tantangan dan proyek kreatif yang disesuaikan dengan berbagai era dalam sejarah, dimulai dari zaman prasejarah (Prehistoric) hingga masa depan (Future).
 
-Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**, yang memberikan feedback konstruktif untuk membantu anak-anak memahami dan memperbaiki solusi mereka.
+Setiap tantangan disertai umpan balik interaktif dari AI Qwen, yang memberikan respons konstruktif untuk membantu anak-anak memahami dan mengembangkan solusi yang mereka buat.
 
 **Catatan**: Game ini menggunakan bahasa Inggris untuk tantangan dan instruksi.
 
@@ -37,13 +37,13 @@ Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**
 3. **Akses Aplikasi**
    - Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000` untuk memulai aplikasi.
    - Pengguna akan memulai dengan memilih tantangan dari era **Prasejarah (Prehistoric)**, dan berlanjut ke tantangan dari era-era lainnya hingga **Masa Depan (Future)**. Tantangan disusun secara berurutan dari yang paling awal hingga yang paling modern.
-   - Pengguna dapat menginputkan solusi kode mereka untuk setiap tantangan yang ada.
+   - Pengguna dapat menginputkan solusi cerita dan kode mereka untuk setiap tantangan yang ada.
 
 ## Fitur
 
 - **Belajar Pemrograman Dasar**: Anak-anak dapat belajar dasar-dasar pemrograman melalui tantangan yang menarik.
 - **Tantangan Berdasarkan Era**: Terdapat berbagai tantangan yang berhubungan dengan berbagai era, dimulai dari prasejarah, abad pertengahan, modern, hingga masa depan.
-- **Umpan Balik dari AI Qwen**: Setiap solusi yang diberikan oleh anak-anak akan dinilai dan diberi umpan balik langsung oleh AI Qwen untuk membantu mereka memperbaiki dan memahami konsep pemrograman.
+- **Umpan Balik dari AI Qwen**: Setiap solusi yang diberikan oleh anak-anak akan dinilai dan diberi umpan balik langsung oleh AI Qwen untuk membantu mereka mengembangkan dan memahami konsep pemrograman.
 - **Antarmuka Ramah Anak**: Desain aplikasi yang sederhana dan menyenangkan, membuatnya mudah digunakan oleh anak-anak.
 - **Meningkatkan Imajinasi dan Kreativitas**: Selain belajar coding, anak-anak dapat mengembangkan imajinasi dan kreativitas mereka dalam menyelesaikan berbagai tantangan.
 
