@@ -26,15 +26,18 @@ Setiap tantangan disertai umpan balik interaktif dari AI Qwen, yang memberikan r
      ```bash
      npm install
      ```
-
-2. **Menjalankan Server**
+2. **Menyiapkan API Key Qwen**
+   - Untuk menjalankan fitur AI feedback dari Qwen, Anda memerlukan akses API key yang dapat diperoleh dari saya melalui [Google Drive](https://drive.google.com/file/d/1-IOiMYV7WR_J4Homu-OwDsC1-qZqtC8K/view?usp=sharing).
+   - Setelah mendapatkan akses, copy file API key dan tambahkan pada .env.
+     
+3. **Menjalankan Server**
    - Jalankan server Python menggunakan perintah berikut:
      ```bash
      python server.py
      ```
    - Server akan berjalan di `http://localhost:3000`.
 
-3. **Akses Aplikasi**
+4. **Akses Aplikasi**
    - Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000` untuk memulai aplikasi.
    - Pengguna akan memulai dengan memilih tantangan dari era **Prasejarah (Prehistoric)**, dan berlanjut ke tantangan dari era-era lainnya hingga **Masa Depan (Future)**. Tantangan disusun secara berurutan dari yang paling awal hingga yang paling modern.
    - Pengguna dapat menginputkan solusi cerita dan kode mereka untuk setiap tantangan yang ada.
