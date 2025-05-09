@@ -1,7 +1,7 @@
 # Time Travel Code Adventure
 
 **Versi**: 1.0.0  
-**Tanggal**: 2024-05-09
+**Tanggal**: 2025-05-09
 
 ## Deskripsi
 Aplikasi **Time Travel Code Adventure** adalah sebuah aplikasi edukasi yang dirancang untuk membantu anak-anak belajar coding dengan cara yang menyenangkan dan imajinatif. Aplikasi ini memungkinkan anak-anak untuk belajar pemrograman dasar melalui tantangan dan proyek kreatif yang disesuaikan dengan berbagai era dalam sejarah, dimulai dari zaman prasejarah (Prehistoric) hingga masa depan (Future).
@@ -36,7 +36,8 @@ Setiap tantangan akan diberikan umpan balik interaktif langsung oleh AI **Qwen**
 
 3. **Akses Aplikasi**
    - Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000` untuk memulai aplikasi.
-   - Pengguna (anak-anak) akan memulai dengan memilih tantangan dari era **Prasejarah (Prehistoric)**, dan berlanjut ke tantangan dari era-era lainnya hingga **Masa Depan (Future)**. Tantangan disusun secara berurutan dari yang paling awal hingga yang paling modern.
+   - Pengguna akan memulai dengan memilih tantangan dari era **Prasejarah (Prehistoric)**, dan berlanjut ke tantangan dari era-era lainnya hingga **Masa Depan (Future)**. Tantangan disusun secara berurutan dari yang paling awal hingga yang paling modern.
+   - Pengguna dapat menginputkan solusi kode mereka untuk setiap tantangan yang ada.
 
 ## Fitur
 
@@ -66,4 +67,4 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE.md](LICEN
 
 ## Catatan
 
-Aplikasi ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan dan mendidik bagi anak-anak. Kami terus mengembangkan dan memperbarui aplikasi ini agar lebih bermanfaat dan menyenangkan dalam proses pembelajaran coding.
+Aplikasi ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan dan mendidik bagi anak-anak. Saya terus mengembangkan dan memperbarui aplikasi ini agar lebih bermanfaat dan menyenangkan dalam proses pembelajaran coding.
