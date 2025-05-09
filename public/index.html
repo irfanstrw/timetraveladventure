@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Time Travel Code Adventure</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fredoka+One&display=swap" rel="stylesheet">
+</head>
+<body class="prehistoric">
+  <div class="container">
+    <h1>🕰️ Time Travel Code Adventure</h1>
+    <div id="game">
+      <div class="era-display">
+        <span id="era" class="era-badge">Era: Prehistoric</span>
+        <span id="score" class="score-badge">Score: 0</span>
+      </div>
+      
+      <div id="story-container" class="story-container">
+        <h2 id="story-title">The Prehistoric Challenge</h2>
+        <div id="story-content" class="story-content">
+          <p>Welcome, young time traveler! You've arrived in the prehistoric era, where dinosaurs roam the Earth.</p>
+          <p>The local cavemen are trying to build a fire, but they're struggling with the arrangement of their firewood. They need your help to create the perfect fire structure!</p>
+          <p>Your mission is to write a simple algorithm that will tell the cavemen how to arrange their firewood in a pyramid shape.</p>
+          <p>When you're ready to help them, click the "Start Challenge" button below.</p>
+        </div>
+        <button id="start-challenge-btn" class="action-button">Start Challenge</button>
+      </div>
+      
+      <div id="challenge-container" class="challenge-container">
+        <div class="challenge-instructions">
+          <h3 id="challenge-title">Challenge: Firewood Pyramid</h3>
+          <div id="challenge-description"></div>
+        </div>
+        <textarea id="input" placeholder="Type your solution here..."></textarea>
+        <button id="submit-btn" class="action-button">Submit</button>
+        <div id="response"></div>
+      </div>
+      
+      <button id="next-era-btn" class="action-button next-era">Next Era</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+<div class="creator-credit">
+  Created with ❤️ by Irfan Satrio
+</div>
+</body>
+</html>
