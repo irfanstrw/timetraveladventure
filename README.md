@@ -27,7 +27,7 @@ Setiap tantangan disertai umpan balik interaktif dari AI Qwen, yang memberikan r
      npm install
      ```
 2. **Menyiapkan API Key Qwen**
-   - Untuk menjalankan fitur AI feedback dari Qwen, Anda memerlukan akses API key yang dapat diperoleh dari saya melalui [Google Drive](https://drive.google.com/file/d/1-IOiMYV7WR_J4Homu-OwDsC1-qZqtC8K/view?usp=sharing).
+   - Untuk menjalankan fitur AI feedback dari Qwen, diperlukan akses API key yang dapat diperoleh dari saya melalui [Google Drive](https://drive.google.com/file/d/1-IOiMYV7WR_J4Homu-OwDsC1-qZqtC8K/view?usp=sharing). atau dari situs web Alibaba.
    - Setelah mendapatkan akses, copy file API key dan tambahkan pada .env.
      
 3. **Menjalankan Server**
