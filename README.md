@@ -60,8 +60,8 @@ Setiap tantangan disertai umpan balik interaktif dari AI Qwen, yang memberikan r
 
 ## Informasi Kontak
 
-- **Pengembang**: [Irfan Satrio]  
-- **Email**: [irfansatrio479@gmail.com]  
+- **Pengembang**: Irfan Satrio  
+- **Email**: irfansatrio479@gmail.com  
 - **GitHub**: [https://github.com/irfanstrw](https://github.com/irfanstrw)
 
 ## Lisensi
